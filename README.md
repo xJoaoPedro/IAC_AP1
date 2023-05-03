@@ -7,8 +7,5 @@ Repositório da AP1 da cadeira de Introdução à Computação.
 * João Pedro da Mata Quadros
 * Vinícius Baratto de Matos
 * Gustavo Henrique Dos Santos Trespach
-
-
-
-
- ---
+* Lorenzo Taborda Frozza
+---
