@@ -9,4 +9,5 @@ Repositório da AP1 da cadeira de Introdução à Computação.
 * Gustavo Henrique Dos Santos Trespach
 * Lorenzo Taborda Frozza
 * Alonso Zambrana
+* Maria Eduarda Costa Cardoso
 ---
